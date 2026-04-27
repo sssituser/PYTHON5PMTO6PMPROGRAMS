@@ -1,0 +1,30 @@
+Decesion making statements or conditional statements
+These stmts can be used execute particular block of stmts based on 
+the condition.
+1.simple if
+    
+    if(booleanex):
+        stmts
+
+         or
+    if booleanex :
+         stmts
+
+    case 1 : When the interpreter executes the code, booleanexp is true then
+            stmts can be executed
+    case 2: BooleanExp is False, Inprerter will not execute the stmts. 
+        
+
+
+
+()->
+[]->
+{}->
+
+2.if-else
+3.Nested if
+4.elif-ladder
+5.selection statement or switch
+
+input() : It is a function which is used to display the stmt and is used to
+read a string from the console application.

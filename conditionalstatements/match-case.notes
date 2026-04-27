@@ -1,0 +1,10 @@
+match stmts:
+    case const1:
+        stmts
+    case const2:
+        stmts
+
+
+
+    case _:
+        default stmts:

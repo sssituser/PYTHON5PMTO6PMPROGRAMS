@@ -1,0 +1,16 @@
+type() : It is function which is used to the 
+type of the data stored in the variable.
+
+input() : It is an input function which is used display the
+info and is used to read a string.
+
+Type Conversion :
+int()     :It is a function which can convert from one data type to integer
+float()   :It is a function which can convert from one data type to float
+complex() :It is a function which can convert from one data type to complex
+str()     :It is a function which can convert from one data type to str
+bool      :It is a function which can convert from one data type to boolean
+Anything it will convert into True
+'ab'
+5
+False
