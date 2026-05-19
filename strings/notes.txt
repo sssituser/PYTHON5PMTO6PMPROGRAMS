@@ -1,0 +1,6 @@
+Anything written in single quotes or double quotes or triple quotes can be called
+	a string, if we don't write anything , It's an empty string.
+
+	string is a class, It has predefined methods. 
+	In order to work with strings	we use predefined methods of a string class.
+    string is immutable.

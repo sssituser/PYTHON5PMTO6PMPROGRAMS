@@ -1,0 +1,11 @@
+1.Sequential Data type, It can be written curly braces.
+2.It collection of Heterogenios elements.
+3.It will not duplicate elmenents.
+4.It is un-ordered.
+5.It is mutable.
+6.It performs Maths operations union,intersection,difference.
+7.pop,remove,discard
+8.add
+---------------------------------------
+forzenset is Sequential data types
+It is immutable

@@ -1,0 +1,9 @@
+What is Dictonary ?
+    It is the combination key and value pairs separated with commas written curly braces.
+    It mutable.
+    Insertion of keys  and values is possible
+    It can hold heterogenious elements.
+    Indexing and slicing is not possible.
+    In Dictonary keys can't duplicate, but values may duplicate.
+    It is  uses predefined fuunctions keys, values etc...
+    Dictonary can be created using dict() funciton

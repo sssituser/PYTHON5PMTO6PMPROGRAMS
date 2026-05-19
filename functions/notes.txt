@@ -1,0 +1,31 @@
+It is a set of stmts or Instructions which can be used to perform
+a prticular task is called function.
+                    or
+It is a self contained block of stms which can be used to
+perform particular task.
+
+functions are of types
+1.Predefined functions :
+    The functions which are built in the lib are called predefined functions.
+    Example :
+        print()
+        input()
+        type()
+        len() etc...
+        string methods(functions)
+2.Userdefined functions
+        The functions which can be defined by the developer called user defined functions.
+        In userdefined functions , we need define the function ,and consume(call) the functions.
+
+        In order to define a function we use def.
+
+        syntax to create a function:
+            def functionname(parameters):
+                stmts
+                return stmts
+        functions name must be meaningful so that a layman can understand easily.
+Advantages :
+    It will the reduce the code complexcity.
+    functions are reusable.
+    more number of functions application can allow to the test the application.
+    
