@@ -1,0 +1,12 @@
+Data Types
+1.class variables(static variables)
+2.Local variables
+3.Instace variables
+
+
+Instance  variables or non static variables
+Insance methods or non static method
+
+non-static methods and non staic variables can be accessed using object
+
+objname = className()

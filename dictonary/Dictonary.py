@@ -18,4 +18,3 @@ for item in di.items():
     print(item)
 di[10] = "AI"
 print(di)
-    
